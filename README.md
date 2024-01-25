@@ -23,16 +23,28 @@
   <a href="https://www.linkedin.com/in/rossijoao/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    
 </div>
 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,git" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,c#" /><br>
 </div>
 
-<br/>
 <hr/>
+
+<p align="center"> <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoRossi49&count_private=true&include_all_commits&show_icons=true&theme=algolia" alt="JoaoRossi49" /> </p>
+
+ <br/>
+ 
+<p align="center"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoRossi49&theme=algolia" alt="JoaoRossi49" /> </p>
+ <br/>
+ 
+<p align="center"> <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoRossi49&count_private=true&include_all_commits=true&layout=compact&langs_count=8&hide=html,css&theme=algolia" alt="JoaoRossi49" /> </p>
